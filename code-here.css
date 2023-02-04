@@ -1,25 +1,56 @@
 #classic {
-
+padding: 1em;
+text-align: justify;
 }
 
 #modern {
-
+padding: 1.2em;
+background-color: #fed703;
+text-align: center;
+font-family: sans-serif;
+font-weight: 600;
 }
 
 #impact {
-
+padding: 1em;
+font-family: sans-serif;
+background-color: #90EE88;
+border: 15px double black;
+text-align: center;
+font-weight: bold;
 }
 
 #elise {
-
+padding: 1.3em;
+text-align: center;
+font-family: cursive;
+background-color: #fefaf0;
+box-shadow: 2px 2px 7px #dcdbdb;
+border: 6px groove #faead7;
 }
 
 #one, #two  {
+display: inline-block;
+text-align: center;
+margin: 4rem 1.25rem 4rem 1.25rem;
+background-color: #7ffed4;
+padding: 1em;
+border: 6px groove #35ced1;
+font-family: sans-serif;
+}
 
+#doubles {
+text-align: center;
 }
 
 #gaudi {
-
+border-radius: 15px 50px;
+background-color: #fba07a;
+padding: 1.5em;
+font-family: sans-serif;
+font-weight: bold;
+text-align: center;
+line-height: 1.5em;
 }
 
 
